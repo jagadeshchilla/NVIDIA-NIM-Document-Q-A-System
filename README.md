@@ -178,10 +178,6 @@ Nvidia-NIM-main/
 - Meta for the Llama language model
 - Streamlit for the web interface framework
 
-## 📞 Support
-
-For questions and support, please open an issue in the repository or contact the development team.
-
 ---
 
 **Built with ❤️ using NVIDIA NIM, LangChain, and Streamlit**
